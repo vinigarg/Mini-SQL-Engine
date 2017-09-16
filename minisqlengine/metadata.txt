@@ -1,0 +1,17 @@
+<begin_table>
+apple
+A
+B
+C
+<end_table>
+<begin_table>
+banana
+B
+C
+<end_table>
+<begin_table>
+cherry
+A
+C
+D
+<end_table>
